@@ -1,0 +1,28 @@
+{
+  "Productos": [
+    {
+      "Nombre": "galletas oreo",
+      "Categoria": "Snacks",
+      "Cantidad": 8,
+      "PrecioUnitario": 0.8
+    }
+  ],
+  "Movimientos": [
+    {
+      "Tipo": "Salida",
+      "Producto": "galletas oreo",
+      "Categoria": "Snacks",
+      "Cantidad": 2,
+      "FechaHora": "25/06/2026 21:06",
+      "RegistradoPor": "Grecia Calapuja"
+    },
+    {
+      "Tipo": "Entrada",
+      "Producto": "galletas oreo",
+      "Categoria": "Snacks",
+      "Cantidad": 10,
+      "FechaHora": "25/06/2026 21:06",
+      "RegistradoPor": "Grecia Calapuja"
+    }
+  ]
+}
